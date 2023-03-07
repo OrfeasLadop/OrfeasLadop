@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Orfeas Ladopoulos</h1>
-<h3 align="center">Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orfeasladop&label=Profile%20views&color=0e75b6&style=flat" alt="orfeasladop" /> </p>
-
 - 📫 How to reach me **orf.ladop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
